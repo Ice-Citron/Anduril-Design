@@ -163,7 +163,7 @@ The internal filenames retain the original version labels and contributor refere
 
 ## Project walkthrough
 
-I recorded an earlier project walkthrough for Hack Club.
+I recorded an earlier project walkthrough for Hack Club. Watch from 4:00 to 6:41.
 
 [Watch the walkthrough on YouTube](https://www.youtube.com/watch?v=mP4dqV3jQZ4).
 
